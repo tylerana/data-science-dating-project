@@ -44,4 +44,4 @@ The following tools and libraries are used in this project:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/data-science-dating-project.git
+   git clone https://github.com/tylerana/data-science-dating-project.git
