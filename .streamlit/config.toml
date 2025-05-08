@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#8B5E83"                  # plum
+backgroundColor = "#FAF3F0"               # off-white
+secondaryBackgroundColor = "#FAF3F0"     
+textColor = "#7C1E28"                     # burgundy
+font = "sans serif"
