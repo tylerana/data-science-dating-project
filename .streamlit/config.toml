@@ -1,6 +1,14 @@
 [theme]
+<<<<<<< HEAD
 primaryColor = "#8B5E83"                  # plum
 backgroundColor = "#FAF3F0"               # off-white
 secondaryBackgroundColor = "#FAF3F0"     
 textColor = "#7C1E28"                     # burgundy
 font = "sans serif"
+=======
+primaryColor = "#A0001C"
+backgroundColor = "#FFF9F9"
+secondaryBackgroundColor = "#FFEDEE"
+textColor = "#3C3C3C"
+font = "sans serif"
+>>>>>>> 0061a40 (Finalized v1: match display styling, essay input, location filters, and single-column layout. Integrated essay-based scoring, replaced slider with full match display, adjusted spacking. Ready for Streamlit Cloud deployment - all core features stable)
