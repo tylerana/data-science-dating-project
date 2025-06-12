@@ -58,7 +58,8 @@ def render_preferences_form(mode):
 
                 essay_weight = st.slider("Essay Score Weight", 0.0, 1.0, 0.7)
                 num_matches = st.selectbox("Number of Matches to Show", options=[5, 10, 25])
-                
+            
+            st.caption("Note: You may need to click twice the first time to see matches.")
             submit = st.form_submit_button("Find Matches 💗")
             
             return {
