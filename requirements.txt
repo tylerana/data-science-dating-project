@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+geopy
+haversine
+gower
+matplotlib
+seaborn
+nltk
+torch
+scipy
+swifter
+sentence-transformers==2.6.1
+torch==2.7.1
+pyspellchecker==0.7.0
+regex

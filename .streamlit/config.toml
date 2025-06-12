@@ -1,0 +1,6 @@
+[server]
+primaryColor = "#A0001C"
+backgroundColor = "#FFF9F9"
+secondaryBackgroundColor = "#FFEDEE"
+textColor = "#3C3C3C"
+font = "sans serif"

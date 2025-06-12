@@ -1,0 +1,5 @@
+data/raw/*
+data/processed/*
+!data/processed/profiles_sampled_for_app.csv
+*.ipynb_checkpoints/
+__pycache__/
