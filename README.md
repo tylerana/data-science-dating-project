@@ -41,7 +41,5 @@ The following tools and libraries are used in this project:
 - The cleaned dataset offers reliable insights for building recommendation systems.
 - Effective feature engineering enables better user segmentation and filtering.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/tylerana/data-science-dating-project.git
+🌐[Live App on Streamlit](https://motif-match.streamlit.app/)
+
